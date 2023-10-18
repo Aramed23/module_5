@@ -21,3 +21,4 @@ Create a line plot and a scatter plot.
 Calculate correlation and regression.
 
 Submit your final analysis.
+Got help from another student and chatGpt
